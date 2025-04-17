@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+beautifulsoup4
+matplotlib
+seaborn
+wordcloud
+nltk
+rake-nltk
+fpdf
